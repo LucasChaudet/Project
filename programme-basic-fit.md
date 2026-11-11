@@ -17,7 +17,7 @@ ne donne rien. Astuce : tape seulement **un mot-clé court** (ex. `row`, `curl`,
 
 | Nom dans mon ancien programme | Nom à chercher dans l'app | Autres mots-clés à essayer |
 |---|---|---|
-| Chest Press | **Chest Press** | `Seated Chest Press`, `Machine Chest Press`, `chest` |
+| Chest Press | **Chest Press** | `chest`, `press`, `Machine Press`, `Bench Press`, `développé`, `pec`. Introuvable → **Dumbbell Bench Press** (1er choix), `Smith Machine Bench Press`, `Cable Chest Press` ou `Push-up` |
 | Tirage vertical | **Lat Pulldown** | `Lat Pull Down`, `Pulldown`, `lat` |
 | Rowing assis / Tirage horizontal | **Seated Row** | `Seated Cable Row`, `Cable Row`, `Row Machine`, `row` |
 | Shoulder Press | **Shoulder Press** | `Machine Shoulder Press`, `Seated Shoulder Press`, `shoulder` |
